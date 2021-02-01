@@ -1,0 +1,12 @@
+{
+  "name": "Content Pack",
+  "version": "0.0.1",
+  "packages": {
+    "RCE Content Pack": {
+      "description": "Content Pack for Re-Volt Community Event",
+      "version": "0.0.1",
+      "https://download1525.mediafire.com/uy17p0qd3ylg/a5dcldk4vnu2ezf/packs.rar",
+      "file": "pack.zip"
+    }
+  }
+}
